@@ -12,3 +12,9 @@ swap:
 
 immediate_func:
 	go run immediate_func.go
+
+array:
+	go run array.go
+
+slice:
+	go run slice.go
