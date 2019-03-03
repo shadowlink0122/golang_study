@@ -6,3 +6,9 @@ pointer:
 
 function:
 	go run function.go
+
+swap:
+	go run swap.go
+
+immediate_func:
+	go run immediate_func.go
