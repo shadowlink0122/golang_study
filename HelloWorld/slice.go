@@ -15,4 +15,8 @@ func main() {
 	fmt.Println(c)
 	fmt.Println(d)
 	fmt.Println(e)
+
+	fmt.Println(len(a))
+
+	fmt.Println(cap(a))
 }
